@@ -35,4 +35,7 @@ public class SingleTon {
 	public void say(){
 		System.out.println("单列模式的调用！");
 	}
+	public void delete(){
+		
+	}
 }
